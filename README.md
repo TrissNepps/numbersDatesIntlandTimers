@@ -1,7 +1,12 @@
 # numbersDatesIntlandTimers
 Numbers, Dates, Intl and Timers - Section 12 JS Course
 
-*Contains finished Bankist app - check flowchart.png
+*Contains finished Bankist app - check flowchart.png for operations
+Users: js   Password: 1111
+       jd             2222
+       stw            3333
+       ss             4444
+
 
 1) Converting and Checking Numbers
 2) Math and Rounding
